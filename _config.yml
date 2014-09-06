@@ -1,7 +1,7 @@
 # Site settings
 title: Qiongyu Huang
 email: qhuang@umd.edu
-description: "Ph.D candidate in Geography at the University of Maryland, College Park"
+description: "Ph.D candidate in Geographical Sciences at the University of Maryland, College Park"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://qiongyuhuang.github.io" # the base hostname & protocol for your site
 github_username:  qiongyuhuang
